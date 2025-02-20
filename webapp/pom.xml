@@ -39,7 +39,7 @@
     </plugin>
     <plugin>
           <artifactId>sonar-maven-plugin</artifactId>
-          <version> 5.0.0.4389 </version>
+          <version> 4.0.0.4121 </version>
     </plugin>
   </plugins>
   </build>
@@ -61,7 +61,7 @@
     <dependency>
        <groupId>org.sonarsource.scanner.maven</groupId>
        <artifactId>sonar-maven-plugin</artifactId>
-       <version>5.0.0.4389</version>
+       <version>4.0.0.4121</version>
     </dependency>
  </dependencies>
 
